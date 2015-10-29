@@ -1,5 +1,9 @@
 # DE_razor_blades
 
+## Useful
+- <http://wiki.badgerandblade.com/Razor_Blades_by_Country>
+- <http://facetaria.pl/marki-zyletek-poradnik-kupujacego-facetariapl-po-19.html>
+
 ## Owners
 ![US](https://raw.githubusercontent.com/octos/fla9s/master/countries/us.png)
 [Energizer Holdings, Inc.](http://www.energizerholdings.com/en/Pages/homepage.aspx)
