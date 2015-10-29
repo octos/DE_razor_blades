@@ -27,7 +27,7 @@ Harry's[[1]](http://techcrunch.com/2014/01/22/10-month-old-harrys-lands-122-5m-b
 ![RU](https://raw.githubusercontent.com/octos/fla9s/master/countries/ru.png)
 Mostochlegmash JSC
 
-![SR](https://raw.githubusercontent.com/octos/fla9s/master/countries/ru.png)
+![RS](https://raw.githubusercontent.com/octos/fla9s/master/countries/rs.png)
 [SUPER SILVER](http://super-silver.com/proizvodi/)
 
 ![FR](https://raw.githubusercontent.com/octos/fla9s/master/countries/fr.png)
@@ -69,7 +69,7 @@ Feintechnik GmbH Eisfeld (Chroma)
 Specializing in private label shaving systems and disposable razors. Feintechnik also produces under their own brand name Croma.
 
 ![RU](https://raw.githubusercontent.com/octos/fla9s/master/countries/ru.png)
-![SR](https://raw.githubusercontent.com/octos/fla9s/master/countries/sr.png)
+![RS](https://raw.githubusercontent.com/octos/fla9s/master/countries/rs.png)
 ![GR](https://raw.githubusercontent.com/octos/fla9s/master/countries/gr.png)
 ![EG](https://raw.githubusercontent.com/octos/fla9s/master/countries/eg.png)
 ![TR](https://raw.githubusercontent.com/octos/fla9s/master/countries/tr.png)
