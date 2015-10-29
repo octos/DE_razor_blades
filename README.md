@@ -64,3 +64,24 @@ Treet Corporation Limited
 ![BD](https://raw.githubusercontent.com/octos/fla9s/master/countries/bd.png)
 ![IN](https://raw.githubusercontent.com/octos/fla9s/master/countries/in.png)
 ![PK](https://raw.githubusercontent.com/octos/fla9s/master/countries/pk.png)
+
+## Coating
+- Stainless
+- Platnium
+- PTFE (Teflon)
+- Chromium-Ceramic-Platinum-Tungsten and Polymer
+- Iridium
+- Chrome
+- None
+- PTFE (Teflon), Platinum, and Chromium
+- Polymeric. Chrome Platinum, Teflon
+- Chrome, Teflon
+- Titanium
+- Platinum Chrome
+- Platinum and PTFE (Teflon)
+- Polymer
+- Triple Coated
+- Carbon Steel
+- Chrome, Ceramic, Krytox
+- Chromium-Ceramic-Platinum-Tungsten and Polymer
+
